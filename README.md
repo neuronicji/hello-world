@@ -1,2 +1,2 @@
 # hello-world
-first github project
+# Ji Hoon Kim's first github project
